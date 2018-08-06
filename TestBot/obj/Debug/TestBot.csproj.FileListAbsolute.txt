@@ -1,0 +1,9 @@
+D:\User\Desktop\TZ\TestBot\TestBot\bin\Debug\TestBot.exe.config
+D:\User\Desktop\TZ\TestBot\TestBot\bin\Debug\TestBot.exe
+D:\User\Desktop\TZ\TestBot\TestBot\bin\Debug\TestBot.pdb
+D:\User\Desktop\TZ\TestBot\TestBot\obj\Debug\TestBot.csprojResolveAssemblyReference.cache
+D:\User\Desktop\TZ\TestBot\TestBot\obj\Debug\TestBot.Form1.resources
+D:\User\Desktop\TZ\TestBot\TestBot\obj\Debug\TestBot.Properties.Resources.resources
+D:\User\Desktop\TZ\TestBot\TestBot\obj\Debug\TestBot.csproj.GenerateResource.Cache
+D:\User\Desktop\TZ\TestBot\TestBot\obj\Debug\TestBot.exe
+D:\User\Desktop\TZ\TestBot\TestBot\obj\Debug\TestBot.pdb
